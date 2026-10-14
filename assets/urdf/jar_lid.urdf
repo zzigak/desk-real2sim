@@ -1,0 +1,6 @@
+<robot name="jar_lid">
+<link name="jar_lid"><inertial><origin xyz="-0.00006 -0.00007 0.01472"/><mass value="0.02"/><inertia ixx="1.570e-05" ixy="0" ixz="0" iyy="1.570e-05" iyz="0" izz="3.009e-05"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="jar_lid_vis.ply"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00000" rpy="0 0 0"/><geometry><mesh filename="jar_lid_col.obj"/></geometry></collision>
+</link>
+</robot>

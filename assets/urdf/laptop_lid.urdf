@@ -1,0 +1,6 @@
+<robot name="laptop_lid">
+<link name="lid"><inertial><origin xyz="0.00000 -0.12405 0.00000"/><mass value="0.55"/><inertia ixx="2.823e-03" ixy="0" ixz="0" iyy="5.800e-03" iyz="0" izz="8.620e-03"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="laptop_lid_vis.obj"/></geometry></visual>
+<collision><origin xyz="0.00000 -0.12405 0.00000" rpy="0 0 0"/><geometry><box size="0.35570 0.24810 0.00550"/></geometry></collision>
+</link>
+</robot>

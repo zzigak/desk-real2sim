@@ -1,0 +1,6 @@
+<robot name="laptop_key">
+<link name="key"><inertial><origin xyz="0.00000 0.00000 0.00000"/><mass value="0.003"/><inertia ixx="4.936e-08" ixy="0" ixz="0" iyy="2.116e-06" iyz="0" izz="2.165e-06"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="laptop_key_vis.obj"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00000" rpy="0 0 0"/><geometry><box size="0.09200 0.01400 0.00120"/></geometry></collision>
+</link>
+</robot>

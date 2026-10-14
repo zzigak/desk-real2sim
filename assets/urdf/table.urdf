@@ -1,0 +1,6 @@
+<robot name="table">
+<link name="table"><inertial><origin xyz="0.00000 0.00000 0.76250"/><mass value="40.0"/><inertia ixx="1.908e+00" ixy="0" ixz="0" iyy="5.240e+00" iyz="0" izz="7.144e+00"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="table_vis.obj"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.76250" rpy="0 0 0"/><geometry><box size="1.25355 0.75624 0.02500"/></geometry></collision>
+</link>
+</robot>

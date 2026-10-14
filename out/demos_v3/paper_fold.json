@@ -1,0 +1,602 @@
+[
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.0,
+  "ms_per_step": 339
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.05,
+  "ms_per_step": 473
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.1,
+  "ms_per_step": 322
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.15,
+  "ms_per_step": 265
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.2,
+  "ms_per_step": 234
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.25,
+  "ms_per_step": 206
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.3,
+  "ms_per_step": 193
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": 0.0,
+  "t": 0.35,
+  "ms_per_step": 186
+ },
+ {
+  "corner_lift_mm": 0.0,
+  "fold_progress": -0.0,
+  "t": 0.4,
+  "ms_per_step": 174
+ },
+ {
+  "corner_lift_mm": 0.4189,
+  "fold_progress": -0.0,
+  "t": 0.45,
+  "ms_per_step": 164
+ },
+ {
+  "corner_lift_mm": 1.5635,
+  "fold_progress": -0.0,
+  "t": 0.5,
+  "ms_per_step": 156
+ },
+ {
+  "corner_lift_mm": 3.3165,
+  "fold_progress": 0.0004,
+  "t": 0.55,
+  "ms_per_step": 149
+ },
+ {
+  "corner_lift_mm": 5.5008,
+  "fold_progress": 0.0015,
+  "t": 0.6,
+  "ms_per_step": 144
+ },
+ {
+  "corner_lift_mm": 8.0865,
+  "fold_progress": 0.0036,
+  "t": 0.65,
+  "ms_per_step": 141
+ },
+ {
+  "corner_lift_mm": 10.7732,
+  "fold_progress": 0.006,
+  "t": 0.7,
+  "ms_per_step": 140
+ },
+ {
+  "corner_lift_mm": 13.2601,
+  "fold_progress": 0.0089,
+  "t": 0.75,
+  "ms_per_step": 138
+ },
+ {
+  "corner_lift_mm": 15.5499,
+  "fold_progress": 0.0121,
+  "t": 0.8,
+  "ms_per_step": 137
+ },
+ {
+  "corner_lift_mm": 17.6735,
+  "fold_progress": 0.0151,
+  "t": 0.85,
+  "ms_per_step": 136
+ },
+ {
+  "corner_lift_mm": 19.3965,
+  "fold_progress": 0.0182,
+  "t": 0.9,
+  "ms_per_step": 133
+ },
+ {
+  "corner_lift_mm": 20.3859,
+  "fold_progress": 0.0201,
+  "t": 0.95,
+  "ms_per_step": 130
+ },
+ {
+  "corner_lift_mm": 20.7815,
+  "fold_progress": 0.021,
+  "t": 1.0,
+  "ms_per_step": 128
+ },
+ {
+  "corner_lift_mm": 20.4494,
+  "fold_progress": 0.0201,
+  "t": 1.05,
+  "ms_per_step": 125
+ },
+ {
+  "corner_lift_mm": 19.4007,
+  "fold_progress": 0.0175,
+  "t": 1.1,
+  "ms_per_step": 123
+ },
+ {
+  "corner_lift_mm": 17.9905,
+  "fold_progress": 0.0157,
+  "t": 1.15,
+  "ms_per_step": 122
+ },
+ {
+  "corner_lift_mm": 17.0036,
+  "fold_progress": 0.0158,
+  "t": 1.2,
+  "ms_per_step": 120
+ },
+ {
+  "corner_lift_mm": 16.6473,
+  "fold_progress": 0.0177,
+  "t": 1.25,
+  "ms_per_step": 122
+ },
+ {
+  "corner_lift_mm": 17.347,
+  "fold_progress": 0.0244,
+  "t": 1.3,
+  "ms_per_step": 122
+ },
+ {
+  "corner_lift_mm": 20.086,
+  "fold_progress": 0.044,
+  "t": 1.35,
+  "ms_per_step": 126
+ },
+ {
+  "corner_lift_mm": 24.1435,
+  "fold_progress": 0.071,
+  "t": 1.4,
+  "ms_per_step": 126
+ },
+ {
+  "corner_lift_mm": 28.5392,
+  "fold_progress": 0.1154,
+  "t": 1.45,
+  "ms_per_step": 127
+ },
+ {
+  "corner_lift_mm": 32.3004,
+  "fold_progress": 0.1943,
+  "t": 1.5,
+  "ms_per_step": 129
+ },
+ {
+  "corner_lift_mm": 33.9038,
+  "fold_progress": 0.2605,
+  "t": 1.55,
+  "ms_per_step": 130
+ },
+ {
+  "corner_lift_mm": 36.165,
+  "fold_progress": 0.3308,
+  "t": 1.6,
+  "ms_per_step": 133
+ },
+ {
+  "corner_lift_mm": 37.98,
+  "fold_progress": 0.3868,
+  "t": 1.65,
+  "ms_per_step": 134
+ },
+ {
+  "corner_lift_mm": 39.1616,
+  "fold_progress": 0.4424,
+  "t": 1.7,
+  "ms_per_step": 136
+ },
+ {
+  "corner_lift_mm": 39.6567,
+  "fold_progress": 0.4953,
+  "t": 1.75,
+  "ms_per_step": 138
+ },
+ {
+  "corner_lift_mm": 39.3827,
+  "fold_progress": 0.5456,
+  "t": 1.8,
+  "ms_per_step": 141
+ },
+ {
+  "corner_lift_mm": 38.3984,
+  "fold_progress": 0.593,
+  "t": 1.85,
+  "ms_per_step": 143
+ },
+ {
+  "corner_lift_mm": 36.5873,
+  "fold_progress": 0.6362,
+  "t": 1.9,
+  "ms_per_step": 145
+ },
+ {
+  "corner_lift_mm": 34.2818,
+  "fold_progress": 0.6772,
+  "t": 1.95,
+  "ms_per_step": 147
+ },
+ {
+  "corner_lift_mm": 31.2153,
+  "fold_progress": 0.719,
+  "t": 2.0,
+  "ms_per_step": 155
+ },
+ {
+  "corner_lift_mm": 28.185,
+  "fold_progress": 0.7568,
+  "t": 2.05,
+  "ms_per_step": 162
+ },
+ {
+  "corner_lift_mm": 24.8888,
+  "fold_progress": 0.791,
+  "t": 2.1,
+  "ms_per_step": 169
+ },
+ {
+  "corner_lift_mm": 22.7495,
+  "fold_progress": 0.8103,
+  "t": 2.15,
+  "ms_per_step": 170
+ },
+ {
+  "corner_lift_mm": 20.288,
+  "fold_progress": 0.8327,
+  "t": 2.2,
+  "ms_per_step": 172
+ },
+ {
+  "corner_lift_mm": 17.54,
+  "fold_progress": 0.855,
+  "t": 2.25,
+  "ms_per_step": 174
+ },
+ {
+  "corner_lift_mm": 14.8587,
+  "fold_progress": 0.8779,
+  "t": 2.3,
+  "ms_per_step": 175
+ },
+ {
+  "corner_lift_mm": 12.1884,
+  "fold_progress": 0.8995,
+  "t": 2.35,
+  "ms_per_step": 177
+ },
+ {
+  "corner_lift_mm": 9.7949,
+  "fold_progress": 0.9202,
+  "t": 2.4,
+  "ms_per_step": 178
+ },
+ {
+  "corner_lift_mm": 7.6602,
+  "fold_progress": 0.9401,
+  "t": 2.45,
+  "ms_per_step": 179
+ },
+ {
+  "corner_lift_mm": 4.9612,
+  "fold_progress": 0.9633,
+  "t": 2.5,
+  "ms_per_step": 181
+ },
+ {
+  "corner_lift_mm": 2.9813,
+  "fold_progress": 0.9853,
+  "t": 2.55,
+  "ms_per_step": 181
+ },
+ {
+  "corner_lift_mm": 1.7187,
+  "fold_progress": 1.0089,
+  "t": 2.6,
+  "ms_per_step": 184
+ },
+ {
+  "corner_lift_mm": 1.7167,
+  "fold_progress": 1.0173,
+  "t": 2.65,
+  "ms_per_step": 184
+ },
+ {
+  "corner_lift_mm": 1.705,
+  "fold_progress": 1.0221,
+  "t": 2.7,
+  "ms_per_step": 184
+ },
+ {
+  "corner_lift_mm": 1.7169,
+  "fold_progress": 1.0247,
+  "t": 2.75,
+  "ms_per_step": 184
+ },
+ {
+  "corner_lift_mm": 1.7103,
+  "fold_progress": 1.0279,
+  "t": 2.8,
+  "ms_per_step": 184
+ },
+ {
+  "corner_lift_mm": 1.6735,
+  "fold_progress": 1.0342,
+  "t": 2.85,
+  "ms_per_step": 186
+ },
+ {
+  "corner_lift_mm": 1.6819,
+  "fold_progress": 1.0389,
+  "t": 2.9,
+  "ms_per_step": 186
+ },
+ {
+  "corner_lift_mm": 1.6645,
+  "fold_progress": 1.0434,
+  "t": 2.95,
+  "ms_per_step": 187
+ },
+ {
+  "corner_lift_mm": 1.6757,
+  "fold_progress": 1.0487,
+  "t": 3.0,
+  "ms_per_step": 189
+ },
+ {
+  "corner_lift_mm": 1.6757,
+  "fold_progress": 1.0487,
+  "t": 3.05,
+  "ms_per_step": 188
+ },
+ {
+  "corner_lift_mm": 1.6752,
+  "fold_progress": 1.0487,
+  "t": 3.1,
+  "ms_per_step": 186
+ },
+ {
+  "corner_lift_mm": 1.675,
+  "fold_progress": 1.0486,
+  "t": 3.15,
+  "ms_per_step": 185
+ },
+ {
+  "corner_lift_mm": 1.675,
+  "fold_progress": 1.0486,
+  "t": 3.2,
+  "ms_per_step": 183
+ },
+ {
+  "corner_lift_mm": 1.6749,
+  "fold_progress": 1.0486,
+  "t": 3.25,
+  "ms_per_step": 182
+ },
+ {
+  "corner_lift_mm": 1.6744,
+  "fold_progress": 1.0486,
+  "t": 3.3,
+  "ms_per_step": 181
+ },
+ {
+  "corner_lift_mm": 1.6713,
+  "fold_progress": 1.049,
+  "t": 3.35,
+  "ms_per_step": 181
+ },
+ {
+  "corner_lift_mm": 1.6701,
+  "fold_progress": 1.049,
+  "t": 3.4,
+  "ms_per_step": 180
+ },
+ {
+  "corner_lift_mm": 1.6695,
+  "fold_progress": 1.0489,
+  "t": 3.45,
+  "ms_per_step": 180
+ },
+ {
+  "corner_lift_mm": 1.6691,
+  "fold_progress": 1.0489,
+  "t": 3.5,
+  "ms_per_step": 179
+ },
+ {
+  "corner_lift_mm": 1.6681,
+  "fold_progress": 1.0489,
+  "t": 3.55,
+  "ms_per_step": 179
+ },
+ {
+  "corner_lift_mm": 1.6672,
+  "fold_progress": 1.0489,
+  "t": 3.6,
+  "ms_per_step": 177
+ },
+ {
+  "corner_lift_mm": 1.6672,
+  "fold_progress": 1.0489,
+  "t": 3.65,
+  "ms_per_step": 176
+ },
+ {
+  "corner_lift_mm": 1.6672,
+  "fold_progress": 1.0489,
+  "t": 3.7,
+  "ms_per_step": 175
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 3.75,
+  "ms_per_step": 174
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 3.8,
+  "ms_per_step": 174
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 3.85,
+  "ms_per_step": 174
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 3.9,
+  "ms_per_step": 173
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 3.95,
+  "ms_per_step": 173
+ },
+ {
+  "corner_lift_mm": 1.6673,
+  "fold_progress": 1.0489,
+  "t": 4.0,
+  "ms_per_step": 172
+ },
+ {
+  "corner_lift_mm": 1.6673,
+  "fold_progress": 1.0489,
+  "t": 4.05,
+  "ms_per_step": 172
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 4.1,
+  "ms_per_step": 171
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 4.15,
+  "ms_per_step": 170
+ },
+ {
+  "corner_lift_mm": 1.6675,
+  "fold_progress": 1.0489,
+  "t": 4.2,
+  "ms_per_step": 168
+ },
+ {
+  "corner_lift_mm": 1.6675,
+  "fold_progress": 1.0489,
+  "t": 4.25,
+  "ms_per_step": 168
+ },
+ {
+  "corner_lift_mm": 1.6677,
+  "fold_progress": 1.0489,
+  "t": 4.3,
+  "ms_per_step": 168
+ },
+ {
+  "corner_lift_mm": 1.6675,
+  "fold_progress": 1.0489,
+  "t": 4.35,
+  "ms_per_step": 167
+ },
+ {
+  "corner_lift_mm": 1.6675,
+  "fold_progress": 1.0489,
+  "t": 4.4,
+  "ms_per_step": 166
+ },
+ {
+  "corner_lift_mm": 1.6675,
+  "fold_progress": 1.0489,
+  "t": 4.45,
+  "ms_per_step": 165
+ },
+ {
+  "corner_lift_mm": 1.6676,
+  "fold_progress": 1.0489,
+  "t": 4.5,
+  "ms_per_step": 164
+ },
+ {
+  "corner_lift_mm": 1.6674,
+  "fold_progress": 1.0489,
+  "t": 4.55,
+  "ms_per_step": 163
+ },
+ {
+  "corner_lift_mm": 1.829,
+  "fold_progress": 1.0465,
+  "t": 4.6,
+  "ms_per_step": 162
+ },
+ {
+  "corner_lift_mm": 1.9099,
+  "fold_progress": 1.0209,
+  "t": 4.65,
+  "ms_per_step": 162
+ },
+ {
+  "corner_lift_mm": 1.7171,
+  "fold_progress": 1.0037,
+  "t": 4.7,
+  "ms_per_step": 162
+ },
+ {
+  "corner_lift_mm": 2.134,
+  "fold_progress": 0.9964,
+  "t": 4.75,
+  "ms_per_step": 161
+ },
+ {
+  "corner_lift_mm": 2.0726,
+  "fold_progress": 0.9912,
+  "t": 4.8,
+  "ms_per_step": 160
+ },
+ {
+  "corner_lift_mm": 2.0695,
+  "fold_progress": 0.9912,
+  "t": 4.85,
+  "ms_per_step": 159
+ },
+ {
+  "corner_lift_mm": 2.0639,
+  "fold_progress": 0.9911,
+  "t": 4.9,
+  "ms_per_step": 159
+ },
+ {
+  "corner_lift_mm": 2.0627,
+  "fold_progress": 0.9911,
+  "t": 4.95,
+  "ms_per_step": 158
+ }
+]

@@ -1,0 +1,6 @@
+<robot name="bottle">
+<link name="bottle"><inertial><origin xyz="-0.00000 0.00000 0.06412"/><mass value="0.33"/><inertia ixx="8.369e-04" ixy="0" ixz="0" iyy="8.369e-04" iyz="0" izz="3.601e-04"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="bottle_vis.ply"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00000" rpy="0 0 0"/><geometry><mesh filename="bottle_col.obj"/></geometry></collision>
+</link>
+</robot>

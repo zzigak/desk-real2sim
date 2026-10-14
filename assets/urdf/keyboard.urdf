@@ -1,0 +1,6 @@
+<robot name="keyboard">
+<link name="keyboard"><inertial><origin xyz="0.00000 0.00000 0.02000"/><mass value="0.95"/><inertia ixx="1.725e-03" ixy="0" ixz="0" iyy="1.016e-02" iyz="0" izz="1.163e-02"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="keyboard_vis.ply"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00000" rpy="0 0 0"/><geometry><mesh filename="keyboard_col.obj"/></geometry></collision>
+</link>
+</robot>

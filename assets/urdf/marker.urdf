@@ -1,0 +1,6 @@
+<robot name="marker">
+<link name="marker"><inertial><origin xyz="-0.00000 0.00000 0.04913"/><mass value="0.012"/><inertia ixx="1.020e-05" ixy="0" ixz="0" iyy="1.020e-05" iyz="0" izz="4.075e-07"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="marker_vis.ply"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00000" rpy="0 0 0"/><geometry><mesh filename="marker_col.obj"/></geometry></collision>
+</link>
+</robot>

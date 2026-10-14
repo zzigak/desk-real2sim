@@ -1,0 +1,6 @@
+<robot name="laptop_base">
+<link name="base"><inertial><origin xyz="0.00000 0.00000 0.00540"/><mass value="1.6"/><inertia ixx="8.223e-03" ixy="0" ixz="0" iyy="1.689e-02" iyz="0" izz="2.508e-02"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="laptop_base_vis.obj"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00540" rpy="0 0 0"/><geometry><box size="0.35570 0.24810 0.01080"/></geometry></collision>
+</link>
+</robot>

@@ -1,0 +1,6 @@
+<robot name="marker_cap">
+<link name="marker_cap"><inertial><origin xyz="0.00000 0.00000 0.03383"/><mass value="0.004"/><inertia ixx="1.184e-06" ixy="0" ixz="0" iyy="1.184e-06" iyz="0" izz="2.353e-07"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="marker_cap_vis.ply"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00000" rpy="0 0 0"/><geometry><mesh filename="marker_cap_col.obj"/></geometry></collision>
+</link>
+</robot>

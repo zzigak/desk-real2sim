@@ -1,0 +1,74 @@
+{
+ "jar": {
+  "r_body": 0.049,
+  "r_root": 0.0415,
+  "h": 0.003,
+  "p": 0.0055,
+  "clear": 0.0012,
+  "t_z0": 0.1485,
+  "t_z1": 0.1655,
+  "ramp": 0.001,
+  "lip_top": 0.17,
+  "r_mouth": 0.0375,
+  "lid": {
+   "r_out": 0.0475,
+   "height": 0.02,
+   "top": 0.003,
+   "gap_above_lip": 0.0015
+  },
+  "lid_seated_z": 0.15450000000000003,
+  "mass": 0.38,
+  "lid_mass": 0.02
+ },
+ "tea_tin": {
+  "r": 0.044,
+  "shoulder": 0.098,
+  "r_neck": 0.041,
+  "neck_top": 0.121,
+  "r_in": 0.039,
+  "bottom": 0.003,
+  "lid_h": 0.031,
+  "lid_top": 0.002,
+  "lid_gap": 0.0009,
+  "disc_r": 0.031,
+  "disc_h": 0.0025,
+  "seat_gap": 0.0012,
+  "lid_seated_z": 0.09920000000000001,
+  "mass": 0.12,
+  "lid_mass": 0.035
+ },
+ "marker": {
+  "r": 0.0085,
+  "barrel": 0.086,
+  "r_tip": 0.006,
+  "tip_end": 0.104,
+  "r_nib": 0.0028,
+  "nib_end": 0.114,
+  "cap_len": 0.055,
+  "cap_r": 0.0095,
+  "cap_depth": 0.04,
+  "gap": 0.0017,
+  "seat_gap": 0.0007,
+  "band": 0.003,
+  "band_ramp": 0.0005,
+  "cap_bore": 0.0077,
+  "ring": 0.0005,
+  "cap_seated_z": 0.0885,
+  "mass": 0.012,
+  "cap_mass": 0.004
+ },
+ "bottle": {
+  "r": 0.0385,
+  "body_top": 0.125,
+  "r_neck": 0.0345,
+  "top": 0.155,
+  "r_in": 0.03,
+  "bottom": 0.012,
+  "mass": 0.33
+ },
+ "stick": {
+  "r": 0.002,
+  "length": 0.2,
+  "mass": 0.002
+ }
+}

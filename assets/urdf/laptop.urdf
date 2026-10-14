@@ -1,0 +1,11 @@
+<robot name="laptop">
+<link name="base"><inertial><origin xyz="0.00000 0.00000 0.00540"/><mass value="1.6"/><inertia ixx="8.223e-03" ixy="0" ixz="0" iyy="1.689e-02" iyz="0" izz="2.508e-02"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="laptop_base_vis.obj"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00540" rpy="0 0 0"/><geometry><box size="0.35570 0.24810 0.01080"/></geometry></collision>
+</link>
+<link name="lid"><inertial><origin xyz="0.00000 -0.12405 0.00000"/><mass value="0.55"/><inertia ixx="2.823e-03" ixy="0" ixz="0" iyy="5.800e-03" iyz="0" izz="8.620e-03"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="laptop_lid_vis.obj"/></geometry></visual>
+<collision><origin xyz="0.00000 -0.12405 0.00000" rpy="0 0 0"/><geometry><box size="0.35570 0.24810 0.00550"/></geometry></collision>
+</link>
+<joint name="hinge" type="revolute"><parent link="base"/><child link="lid"/><origin xyz="0.00000 0.12405 0.01505" rpy="-1.974379 0.000000 0.000000"/><axis xyz="-1 0 0"/><limit lower="-1.9744" upper="0.3818" effort="50" velocity="5"/><dynamics damping="0.02" friction="0.8"/></joint>
+</robot>

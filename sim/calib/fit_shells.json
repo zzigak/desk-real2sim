@@ -1,0 +1,42 @@
+{
+ "paper": {
+  "points": [
+   [
+    4,
+    0.0003322
+   ],
+   [
+    16,
+    0.001015
+   ]
+  ],
+  "exponent": 0.8056778744987624,
+  "target_B": 0.00025,
+  "bending_stiffness": 3.0,
+  "check": {
+   "bending_stiffness": 3.0,
+   "B": 0.0002506,
+   "bending_length": 0.0683,
+   "note": "measured; used"
+  }
+ },
+ "pad": {
+  "points": [
+   [
+    10,
+    0.001698
+   ],
+   [
+    40,
+    0.006072
+   ],
+   [
+    160,
+    0.01796
+   ]
+  ],
+  "exponent": 0.9191676659312139,
+  "target_B": 0.003,
+  "bending_stiffness": 18.57
+ }
+}

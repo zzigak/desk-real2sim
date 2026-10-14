@@ -1,0 +1,482 @@
+[
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.0,
+  "ms_per_step": 411
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.05,
+  "ms_per_step": 298
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.1,
+  "ms_per_step": 239
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.15,
+  "ms_per_step": 186
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.2,
+  "ms_per_step": 154
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.25,
+  "ms_per_step": 139
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.3,
+  "ms_per_step": 134
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.35,
+  "ms_per_step": 127
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.4,
+  "ms_per_step": 118
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.45,
+  "ms_per_step": 112
+ },
+ {
+  "lid_target_deg": 113.1236,
+  "lid_deg": 113.1236,
+  "t": 0.5,
+  "ms_per_step": 106
+ },
+ {
+  "lid_target_deg": 113.0072,
+  "lid_deg": 113.0814,
+  "t": 0.55,
+  "ms_per_step": 102
+ },
+ {
+  "lid_target_deg": 112.6659,
+  "lid_deg": 112.8287,
+  "t": 0.6,
+  "ms_per_step": 99
+ },
+ {
+  "lid_target_deg": 112.1116,
+  "lid_deg": 112.3582,
+  "t": 0.65,
+  "ms_per_step": 99
+ },
+ {
+  "lid_target_deg": 111.3561,
+  "lid_deg": 111.6817,
+  "t": 0.7,
+  "ms_per_step": 100
+ },
+ {
+  "lid_target_deg": 110.4112,
+  "lid_deg": 110.8112,
+  "t": 0.75,
+  "ms_per_step": 100
+ },
+ {
+  "lid_target_deg": 109.2888,
+  "lid_deg": 109.7583,
+  "t": 0.8,
+  "ms_per_step": 100
+ },
+ {
+  "lid_target_deg": 108.0007,
+  "lid_deg": 108.5351,
+  "t": 0.85,
+  "ms_per_step": 100
+ },
+ {
+  "lid_target_deg": 106.5587,
+  "lid_deg": 107.1532,
+  "t": 0.9,
+  "ms_per_step": 100
+ },
+ {
+  "lid_target_deg": 104.9747,
+  "lid_deg": 105.6246,
+  "t": 0.95,
+  "ms_per_step": 100
+ },
+ {
+  "lid_target_deg": 103.2605,
+  "lid_deg": 103.9611,
+  "t": 1.0,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 101.4279,
+  "lid_deg": 102.1744,
+  "t": 1.05,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 99.4889,
+  "lid_deg": 100.2765,
+  "t": 1.1,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 97.4551,
+  "lid_deg": 98.2792,
+  "t": 1.15,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 95.3385,
+  "lid_deg": 96.1943,
+  "t": 1.2,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 93.1509,
+  "lid_deg": 94.0337,
+  "t": 1.25,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 90.9041,
+  "lid_deg": 91.8091,
+  "t": 1.3,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 88.6099,
+  "lid_deg": 89.5325,
+  "t": 1.35,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 86.2803,
+  "lid_deg": 87.2156,
+  "t": 1.4,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 83.9269,
+  "lid_deg": 84.8703,
+  "t": 1.45,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 81.5618,
+  "lid_deg": 82.5085,
+  "t": 1.5,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 79.1966,
+  "lid_deg": 80.1418,
+  "t": 1.55,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 76.8433,
+  "lid_deg": 77.7824,
+  "t": 1.6,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 74.5136,
+  "lid_deg": 75.4418,
+  "t": 1.65,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 72.2195,
+  "lid_deg": 73.132,
+  "t": 1.7,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 69.9727,
+  "lid_deg": 70.8649,
+  "t": 1.75,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 67.7851,
+  "lid_deg": 68.6522,
+  "t": 1.8,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 65.6685,
+  "lid_deg": 66.5057,
+  "t": 1.85,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 63.6347,
+  "lid_deg": 64.4374,
+  "t": 1.9,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 61.6956,
+  "lid_deg": 62.459,
+  "t": 1.95,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 59.8631,
+  "lid_deg": 60.5824,
+  "t": 2.0,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 58.1489,
+  "lid_deg": 58.8195,
+  "t": 2.05,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 56.5648,
+  "lid_deg": 57.1819,
+  "t": 2.1,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 55.1229,
+  "lid_deg": 55.6817,
+  "t": 2.15,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 53.8348,
+  "lid_deg": 54.3306,
+  "t": 2.2,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 52.7123,
+  "lid_deg": 53.1405,
+  "t": 2.25,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 51.7675,
+  "lid_deg": 52.1232,
+  "t": 2.3,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 51.0119,
+  "lid_deg": 51.2905,
+  "t": 2.35,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 50.4576,
+  "lid_deg": 50.6543,
+  "t": 2.4,
+  "ms_per_step": 101
+ },
+ {
+  "lid_target_deg": 50.1164,
+  "lid_deg": 50.2264,
+  "t": 2.45,
+  "ms_per_step": 100
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 50.0187,
+  "t": 2.5,
+  "ms_per_step": 99
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.55,
+  "ms_per_step": 99
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.6,
+  "ms_per_step": 98
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.65,
+  "ms_per_step": 97
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.7,
+  "ms_per_step": 96
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.75,
+  "ms_per_step": 95
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.8,
+  "ms_per_step": 95
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.85,
+  "ms_per_step": 94
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.9,
+  "ms_per_step": 93
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 2.95,
+  "ms_per_step": 93
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.0,
+  "ms_per_step": 92
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.05,
+  "ms_per_step": 91
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.1,
+  "ms_per_step": 91
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.15,
+  "ms_per_step": 90
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.2,
+  "ms_per_step": 90
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.25,
+  "ms_per_step": 89
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.3,
+  "ms_per_step": 88
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.35,
+  "ms_per_step": 88
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.4,
+  "ms_per_step": 88
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.45,
+  "ms_per_step": 87
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.5,
+  "ms_per_step": 87
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.55,
+  "ms_per_step": 86
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.6,
+  "ms_per_step": 86
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.65,
+  "ms_per_step": 85
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.7,
+  "ms_per_step": 85
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.75,
+  "ms_per_step": 85
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.8,
+  "ms_per_step": 84
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.85,
+  "ms_per_step": 84
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.9,
+  "ms_per_step": 83
+ },
+ {
+  "lid_target_deg": 50.0,
+  "lid_deg": 49.9999,
+  "t": 3.95,
+  "ms_per_step": 83
+ }
+]

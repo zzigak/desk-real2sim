@@ -1,0 +1,17 @@
+newmtl screen
+Ka 0 0 0
+Kd 1.0000 1.0000 1.0000
+Ks 0.05 0.05 0.05
+Ns 20
+d 1.0
+illum 2
+map_Kd laptop_lid_inner.png
+
+newmtl alu
+Ka 0 0 0
+Kd 0.4200 0.4300 0.4500
+Ks 0.05 0.05 0.05
+Ns 20
+d 1.0
+illum 2
+

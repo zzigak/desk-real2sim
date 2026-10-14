@@ -1,0 +1,782 @@
+[
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3705,
+  "t": 0.0,
+  "ms_per_step": 394
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.05,
+  "ms_per_step": 314
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.1,
+  "ms_per_step": 243
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.15,
+  "ms_per_step": 196
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.2,
+  "ms_per_step": 163
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.25,
+  "ms_per_step": 149
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.3,
+  "ms_per_step": 142
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.35,
+  "ms_per_step": 132
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.4,
+  "ms_per_step": 123
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.45,
+  "ms_per_step": 116
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 0.5,
+  "ms_per_step": 110
+ },
+ {
+  "tilt_target_deg": 2.0249,
+  "tilt_deg": 1.763,
+  "t": 0.55,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 2.6792,
+  "tilt_deg": 2.4173,
+  "t": 0.6,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 3.3335,
+  "tilt_deg": 3.0716,
+  "t": 0.65,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 3.9878,
+  "tilt_deg": 3.7259,
+  "t": 0.7,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 4.6421,
+  "tilt_deg": 4.3802,
+  "t": 0.75,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 5.2964,
+  "tilt_deg": 5.0345,
+  "t": 0.8,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 5.9507,
+  "tilt_deg": 5.6888,
+  "t": 0.85,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 6.6051,
+  "tilt_deg": 6.3432,
+  "t": 0.9,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 7.2594,
+  "tilt_deg": 6.9975,
+  "t": 0.95,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 7.9137,
+  "tilt_deg": 7.6518,
+  "t": 1.0,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 8.568,
+  "tilt_deg": 8.3061,
+  "t": 1.05,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 9.2223,
+  "tilt_deg": 8.9604,
+  "t": 1.1,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 9.8766,
+  "tilt_deg": 9.6147,
+  "t": 1.15,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 10.531,
+  "tilt_deg": 10.2691,
+  "t": 1.2,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 11.1853,
+  "tilt_deg": 10.9234,
+  "t": 1.25,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 11.8396,
+  "tilt_deg": 11.5777,
+  "t": 1.3,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 12.4939,
+  "tilt_deg": 12.232,
+  "t": 1.35,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 13.1482,
+  "tilt_deg": 12.8863,
+  "t": 1.4,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 13.8025,
+  "tilt_deg": 13.5406,
+  "t": 1.45,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 14.4568,
+  "tilt_deg": 14.1949,
+  "t": 1.5,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 15.1112,
+  "tilt_deg": 14.8493,
+  "t": 1.55,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 15.7655,
+  "tilt_deg": 15.5036,
+  "t": 1.6,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 16.4198,
+  "tilt_deg": 16.1579,
+  "t": 1.65,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 17.0741,
+  "tilt_deg": 16.8122,
+  "t": 1.7,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 17.7284,
+  "tilt_deg": 17.4665,
+  "t": 1.75,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 18.3827,
+  "tilt_deg": 18.1208,
+  "t": 1.8,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 19.0371,
+  "tilt_deg": 18.7752,
+  "t": 1.85,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 19.6914,
+  "tilt_deg": 19.4295,
+  "t": 1.9,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 20.3457,
+  "tilt_deg": 20.0838,
+  "t": 1.95,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.7381,
+  "t": 2.0,
+  "ms_per_step": 109
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.05,
+  "ms_per_step": 108
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.1,
+  "ms_per_step": 107
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.15,
+  "ms_per_step": 106
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.2,
+  "ms_per_step": 105
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.25,
+  "ms_per_step": 105
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.3,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.35,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.4,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.45,
+  "ms_per_step": 102
+ },
+ {
+  "tilt_target_deg": 21.0,
+  "tilt_deg": 20.9998,
+  "t": 2.5,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 20.35,
+  "tilt_deg": 20.6098,
+  "t": 2.55,
+  "ms_per_step": 102
+ },
+ {
+  "tilt_target_deg": 19.7,
+  "tilt_deg": 19.9598,
+  "t": 2.6,
+  "ms_per_step": 102
+ },
+ {
+  "tilt_target_deg": 19.05,
+  "tilt_deg": 19.3098,
+  "t": 2.65,
+  "ms_per_step": 102
+ },
+ {
+  "tilt_target_deg": 18.4,
+  "tilt_deg": 18.6598,
+  "t": 2.7,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 17.75,
+  "tilt_deg": 18.0098,
+  "t": 2.75,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 17.1,
+  "tilt_deg": 17.3598,
+  "t": 2.8,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 16.45,
+  "tilt_deg": 16.7098,
+  "t": 2.85,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 15.8,
+  "tilt_deg": 16.0598,
+  "t": 2.9,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 15.15,
+  "tilt_deg": 15.4098,
+  "t": 2.95,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 14.5,
+  "tilt_deg": 14.7598,
+  "t": 3.0,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 13.85,
+  "tilt_deg": 14.1098,
+  "t": 3.05,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 13.2,
+  "tilt_deg": 13.4598,
+  "t": 3.1,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 12.55,
+  "tilt_deg": 12.8098,
+  "t": 3.15,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 11.9,
+  "tilt_deg": 12.1598,
+  "t": 3.2,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 11.25,
+  "tilt_deg": 11.5098,
+  "t": 3.25,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 10.6,
+  "tilt_deg": 10.8598,
+  "t": 3.3,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 9.95,
+  "tilt_deg": 10.2098,
+  "t": 3.35,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 9.3,
+  "tilt_deg": 9.5598,
+  "t": 3.4,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 8.65,
+  "tilt_deg": 8.9098,
+  "t": 3.45,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 8.0,
+  "tilt_deg": 8.2598,
+  "t": 3.5,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 7.35,
+  "tilt_deg": 7.6098,
+  "t": 3.55,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 6.7,
+  "tilt_deg": 6.9598,
+  "t": 3.6,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 6.05,
+  "tilt_deg": 6.3098,
+  "t": 3.65,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": 5.4,
+  "tilt_deg": 5.6598,
+  "t": 3.7,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 4.75,
+  "tilt_deg": 5.0098,
+  "t": 3.75,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 4.1,
+  "tilt_deg": 4.3598,
+  "t": 3.8,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 3.45,
+  "tilt_deg": 3.7098,
+  "t": 3.85,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 2.8,
+  "tilt_deg": 3.0598,
+  "t": 3.9,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 2.15,
+  "tilt_deg": 2.4098,
+  "t": 3.95,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 1.5,
+  "tilt_deg": 1.7598,
+  "t": 4.0,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 0.85,
+  "tilt_deg": 1.1098,
+  "t": 4.05,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": 0.2,
+  "tilt_deg": 0.4598,
+  "t": 4.1,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -0.45,
+  "tilt_deg": -0.1902,
+  "t": 4.15,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -1.1,
+  "tilt_deg": -0.8402,
+  "t": 4.2,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -1.75,
+  "tilt_deg": -1.4902,
+  "t": 4.25,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -2.4,
+  "tilt_deg": -2.1402,
+  "t": 4.3,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -3.05,
+  "tilt_deg": -2.7902,
+  "t": 4.35,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -3.7,
+  "tilt_deg": -3.4402,
+  "t": 4.4,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -4.35,
+  "tilt_deg": -4.0902,
+  "t": 4.45,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -4.7402,
+  "t": 4.5,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.55,
+  "ms_per_step": 104
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.6,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.65,
+  "ms_per_step": 103
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.7,
+  "ms_per_step": 102
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.75,
+  "ms_per_step": 102
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.8,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.85,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.9,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 4.95,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -5.0,
+  "tilt_deg": -5.0002,
+  "t": 5.0,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -4.6815,
+  "tilt_deg": -4.8091,
+  "t": 5.05,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -4.3629,
+  "tilt_deg": -4.4905,
+  "t": 5.1,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -4.0444,
+  "tilt_deg": -4.172,
+  "t": 5.15,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -3.7259,
+  "tilt_deg": -3.8535,
+  "t": 5.2,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -3.4074,
+  "tilt_deg": -3.535,
+  "t": 5.25,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -3.0888,
+  "tilt_deg": -3.2164,
+  "t": 5.3,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -2.7703,
+  "tilt_deg": -2.8979,
+  "t": 5.35,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -2.4518,
+  "tilt_deg": -2.5794,
+  "t": 5.4,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -2.1333,
+  "tilt_deg": -2.2608,
+  "t": 5.45,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -1.8147,
+  "tilt_deg": -1.9423,
+  "t": 5.5,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -1.4962,
+  "tilt_deg": -1.6238,
+  "t": 5.55,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -1.1777,
+  "tilt_deg": -1.3053,
+  "t": 5.6,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -0.8592,
+  "tilt_deg": -0.9867,
+  "t": 5.65,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -0.5406,
+  "tilt_deg": -0.6682,
+  "t": 5.7,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": -0.2221,
+  "tilt_deg": -0.3497,
+  "t": 5.75,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 0.0964,
+  "tilt_deg": -0.0312,
+  "t": 5.8,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 0.415,
+  "tilt_deg": 0.2874,
+  "t": 5.85,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 0.7335,
+  "tilt_deg": 0.6059,
+  "t": 5.9,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 1.052,
+  "tilt_deg": 0.9244,
+  "t": 5.95,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.243,
+  "t": 6.0,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.05,
+  "ms_per_step": 101
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.1,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.15,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.2,
+  "ms_per_step": 100
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.25,
+  "ms_per_step": 99
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.3,
+  "ms_per_step": 99
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.35,
+  "ms_per_step": 99
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.4,
+  "ms_per_step": 98
+ },
+ {
+  "tilt_target_deg": 1.3705,
+  "tilt_deg": 1.3704,
+  "t": 6.45,
+  "ms_per_step": 98
+ }
+]

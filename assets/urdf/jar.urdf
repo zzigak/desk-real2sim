@@ -1,0 +1,6 @@
+<robot name="jar">
+<link name="jar"><inertial><origin xyz="0.00002 0.00001 0.07238"/><mass value="0.38"/><inertia ixx="1.520e-03" ixy="0" ixz="0" iyy="1.520e-03" iyz="0" izz="7.271e-04"/></inertial>
+<visual><origin xyz="0.00000 0.00000 0.00000" rpy="0.00000 0.00000 0.00000"/><geometry><mesh filename="jar_vis.ply"/></geometry></visual>
+<collision><origin xyz="0.00000 0.00000 0.00000" rpy="0 0 0"/><geometry><mesh filename="jar_col.obj"/></geometry></collision>
+</link>
+</robot>
