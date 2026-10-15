@@ -64,6 +64,11 @@ of that window is at 0.4-0.5 mm/s. `out/<load>/paper.json` holds the per-frame l
 finger forces and gaps, object positions), the plan, `bag_end_verts` and the set-down numbers. These are the runs in
 the videos (made with this code before it moved into this folder; only import paths changed).
 
+Re-run from this folder on 2026-10-15 (`out/repro_light/`, `out/repro_heavy/`): both PASS every check. Light: stretch
+0.998-1.002, settle 0.15 mm/s, rise 183 mm, end tilt 0.2 deg. Heavy: stretch 0.996-1.004, settle 0.18 mm/s, rise
+151 mm, end tilt 1.5 deg. libuipc on the GPU is not bit-for-bit repeatable, so the light run's crease pop did not
+recur.
+
 The bag carried by one handle hangs 20-50 deg over (its centre of mass is 6 cm from the handle's wall and the rim
 folds under the load). The Franka's 8 cm opening cannot take both handles (12 cm apart). So the set-down is a
 feedback loop: straight down at 2 cm/s to first contact, then the hand walks back to the pose it grasped from (above
