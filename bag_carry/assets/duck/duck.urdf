@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<robot name="duck"><link name="duck">
+  <visual><geometry><mesh filename="duck_visual.obj"/></geometry></visual>
+  <collision><geometry><mesh filename="duck_col.obj"/></geometry></collision>
+</link></robot>

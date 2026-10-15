@@ -1,0 +1,8 @@
+# downloaded by render/fetch_textures.sh (or your own FreePBR copies)
+render/tex/
+# written by sim/franka_ipc.panda_mjcf() with this machine's Genesis path
+assets/_panda_hand_box.local.xml*
+# per-frame exports, Genesis preview videos and Blender frames are large; videos are in the GitHub release
+out/**/exp/
+out/**/*.mp4
+out/frames/

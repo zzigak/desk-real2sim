@@ -3,6 +3,10 @@
 Ziga's desk (10 phone photos, 2026-10-13) rebuilt as a Genesis 1.3.1 + libuipc scene: rigid and articulated
 objects, real threads and slip fits, and cloth/paper/mouse-pad shells.
 
+**Also in this repo:** [`bag_carry/`](bag_carry/), a separate scene: a Franka carries a loaded brown paper bag by
+its rope handle between two tables, set up after CoDimRecon (paper membrane, plastic creases, glued rope handles), with
+Blender renders. It has its own README and shares no files with the desk.
+
 **Videos:** the [v0.1 release](https://github.com/zzigak/desk-real2sim/releases/tag/v0.1) has every clip.
 - `hands_<demo>.mp4`: eleven interactions done by soft-constraint "hands" (`sim/demos.py`).
 - `robot_<demo>.mp4`: six YAM-cart robot demos, rendered in Blender Cycles.

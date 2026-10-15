@@ -1,0 +1,112 @@
+{
+ "trash_bin": {
+  "r_out": 0.11,
+  "wall": 0.006,
+  "height": 0.22,
+  "floor": 0.006,
+  "faces": 768,
+  "volume": 0.00109053491613361
+ },
+ "trash_bag": {
+  "radius": 0.09899999999999999,
+  "bottom": 0.01,
+  "top": 0.27,
+  "verts": 1901,
+  "faces": 3738,
+  "boundary_edges": 3738,
+  "open_edges": 62,
+  "nonmanifold_edges": 0,
+  "winding_consistent": true,
+  "extents": [
+   0.198,
+   0.1977,
+   0.26
+  ]
+ },
+ "paper_bag": {
+  "w": 0.16,
+  "d": 0.1,
+  "h": 0.24,
+  "verts": 1435,
+  "faces": 2816,
+  "open_edges": 52,
+  "nonmanifold_edges": 0,
+  "winding_consistent": true,
+  "extents": [
+   0.16,
+   0.1,
+   0.24
+  ]
+ },
+ "basket": {
+  "r_bot": 0.1,
+  "r_top": 0.125,
+  "wall": 0.006,
+  "height": 0.24,
+  "floor": 0.006,
+  "faces": 768,
+  "volume": 0.001157570343961514,
+  "watertight": true
+ },
+ "liner": {
+  "clear": 0.006,
+  "folds": [
+   3.141592653589793,
+   5.235987755982988,
+   1.0471975511965979
+  ],
+  "fold_depth": 0.04,
+  "fold_root": 0.03,
+  "cuff": 0.05,
+  "verts": 4001,
+  "faces": 7900,
+  "open_edges": 100,
+  "nonmanifold_edges": 0,
+  "winding_consistent": true,
+  "extents": [
+   0.262,
+   0.2619,
+   0.239
+  ],
+  "min_clearance_to_basket_mm": 4.0
+ },
+ "rope_bag": {
+  "w": 0.2,
+  "d": 0.12,
+  "h": 0.22,
+  "verts": 1681,
+  "faces": 3296,
+  "rope_points": 26,
+  "rope_tuck_vertices": 3,
+  "rope_segment_mm": [
+   5.978407486913937,
+   13.421242016841486
+  ],
+  "open_edges": 64,
+  "nonmanifold_edges": 0,
+  "winding_consistent": true,
+  "extents": [
+   0.2,
+   0.12,
+   0.22
+  ]
+ },
+ "handle_bag": {
+  "w": 0.2,
+  "d": 0.12,
+  "h": 0.22,
+  "span": 0.08,
+  "leg": 0.02,
+  "rise": 0.09,
+  "verts": 1831,
+  "faces": 3504,
+  "open_edges": 160,
+  "nonmanifold_edges": 0,
+  "winding_consistent": true,
+  "extents": [
+   0.2,
+   0.12,
+   0.31
+  ]
+ }
+}
